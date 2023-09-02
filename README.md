@@ -23,3 +23,17 @@ Para definir sua informação do MYSQL vá ao arquivo acervo/settings.py
 
 ![DB](https://i.imgur.com/svujXHW.png)
 
+
+## Metodos
+
+Lista gerada com Swagger:\
+Artistas:\
+![Artistas](https://i.imgur.com/XcPd4yC.png)\
+Categorias:\
+![Categorias](https://i.imgur.com/cN9O1xT.png)\
+Artistas:\
+![Shows](https://i.imgur.com/ryaWies.png)
+
+## Modelos
+Lista gerada com Swagger:\
+![Modelos](https://i.imgur.com/6o3UD8e.png)
